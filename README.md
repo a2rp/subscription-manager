@@ -4,7 +4,7 @@
 
 Repeatr brings recurring services into one renewal list, with monthly estimates and an at-a-glance view of upcoming charges.
 
-**GitHub Pages URL:** https://a2rp.github.io/subscription-manager/ (planned after deployment)
+Deployed site: https://a2rp.github.io/subscription-manager/
 
 ## Included
 
